@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  baseUrl: 'http://shell.mfuentesmfe.com/api'
+  baseUrl: 'http://backend.mfuentesmfe.com/api'
 };
